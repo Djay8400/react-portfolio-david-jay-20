@@ -1,15 +1,11 @@
 import React from "react";
 import Project from "./Project";
+import work from "../work";
 
-function Portfolio(props) {
+function Portfolio() {
   return (
     <div>
-      <Project />
-      <Project />
-      <Project />
-      <Project />
-      <Project />
-      <Project />
+      <Project work={work} />
     </div>
   );
 }
