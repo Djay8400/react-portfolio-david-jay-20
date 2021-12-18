@@ -1,14 +1,13 @@
 import React from "react";
 import Header from "./components/Header";
-// import About from "./components/About";
+import PageSetter from "./components/PageSetter";
 import Footer from "./components/Footer";
-import Portfolio from "./components/Portfolio";
 
 function App() {
   return (
     <div>
       <Header />;
-      <Portfolio />;
+      <PageSetter />;
       <Footer />;
     </div>
   );

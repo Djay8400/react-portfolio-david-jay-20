@@ -1,6 +1,6 @@
 import React from "react";
-import Project from "./Project";
-import work from "../work";
+import Project from "../Project";
+import work from "../../work";
 
 function Portfolio() {
   return (

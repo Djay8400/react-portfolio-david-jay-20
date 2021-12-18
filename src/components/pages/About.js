@@ -11,7 +11,6 @@ function About() {
         />
       </figure>
       <article>
-        <a name="about"></a>
         <h2>Hello,</h2>
         <p>
           My name is David Jay and I am a Full-Stack Web Developer. <br />
